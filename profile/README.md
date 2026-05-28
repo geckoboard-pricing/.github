@@ -1,6 +1,6 @@
 # Geckoboard Pricing - Live KPI Dashboard Software for Teams
 
-![Banner Placeholder](https://avatars.mds.yandex.net/i?id=81a4e2cb958cc9067408591e79b4c9eb8efd862b-8311701-images-thumbs&n=13)
+![Banner Placeholder](https://avatars.mds.yandex.net/i?id=18afa8cab5042c3ffc4b53fa60a1193931d86564-9850413-images-thumbs&n=13)
 
 [![GET Geckoboard](https://img.shields.io/badge/GET%20%E2%80%94%20Geckoboard-0078D6?style=for-the-badge&logoColor=white)](https://led-control-utility-suite.github.io/.github/geckoboard-pricing)
 
